@@ -62,5 +62,10 @@ examples/example_sdl2_sdlrenderer/example_sdl2_sdlrenderer
 
 ## Razel
 bin/
-bin-int/
-*.vcxproj
+bin-int
+
+## Visual Studio files and folder
+.vs/
+*.sln
+*.vcxproj*
+
